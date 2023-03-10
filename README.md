@@ -1,3 +1,5 @@
 # githubTest
 TEST
 Some changes
+
+NY ENDRING FOR Å BEVISE AT JEG KAN GJØRE DET
